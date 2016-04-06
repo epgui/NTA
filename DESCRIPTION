@@ -1,0 +1,8 @@
+Package: NTA
+Version: 0.1
+Author: Guillaume Pelletier
+Maintainer: Guillaume Pelletier <guigui.p@gmail.com>
+License: Attribution-ShareAlike 4.0 International
+Title: Nanoparticle Tracking Analysis for R
+Description: NTA is an open source Nanoparticle Tracking Analysis package for R.
+URL: https://github.com/epgui/NTA
